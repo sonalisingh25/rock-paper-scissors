@@ -24,7 +24,7 @@ This is a simple **Rock-Paper-Scissors** game where you play against the compute
    cd rock-paper-scissors-python
 
 ---
-
+📜 License
 Let me know if you'd like to:
 - Add images or a demo GIF
 - Rename the project
